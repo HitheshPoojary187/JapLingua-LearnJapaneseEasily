@@ -424,7 +424,7 @@ export default function App() {
 
     <div className="flex space-x-4">
       <a
-        href="https://github.com/hithesh"
+        href="https://github.com/HitheshPoojary187"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center px-3 py-1.5 bg-white shadow-md rounded-full text-indigo-600 hover:text-white hover:bg-indigo-600 transition duration-300 ease-in-out"
